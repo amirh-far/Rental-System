@@ -4,6 +4,10 @@
 
 Rental System built with MySQL & Python using Sakila Database.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 ## About
 
 This project has an emphasis on using SQL Queries to master main and key queries.<br>
