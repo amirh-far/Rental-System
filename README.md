@@ -101,32 +101,32 @@ You are good to go. Use register customer or store registration to proceed.
 ## Screenshots
 ### Menu
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png" alt="drawing" width="800"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png" alt="drawing" width="600"/>
 </p>
 
 ### Get Rental Info
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/get-rental-info.png"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/get-rental-info.png" alt="drawing" width="600"/>
 </p>
 
-### Highest Rated Films Category
+### Payment Per Film
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/%20highest-rated-films-category.png"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/payments-per-film.png" alt="drawing" width="600"/>
 </p>
 
 ### Payment Info
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/payment-info.png"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/payment-info.png" alt="drawing" width="600"/>
 </p>
 
 ### Rental Film Count
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-film-count.png"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-film-count.png" alt="drawing" width="600"/>
 </p>
 
 ### Search Film via Category
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/search-film-category.png"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/search-film-category.png" alt="drawing" width="600"/>
 </p>
 
 ## Contributing
