@@ -101,7 +101,7 @@ You are good to go. Use register customer or store registration to proceed.
 ## Screenshots
 ### Menu
 <p>
-  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png" alt="drawing" width="400"/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png" alt="drawing" width="800"/>
 </p>
 
 ### Get Rental Info
