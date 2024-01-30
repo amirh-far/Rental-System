@@ -1,0 +1,4 @@
+venv/
+db-project.code-workspace
+.DS_Store
+__pycache__/
