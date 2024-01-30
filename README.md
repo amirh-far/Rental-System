@@ -17,12 +17,30 @@ The database used in this project is Sakila Database which is documented at this
 
 
 ## Features
+- Menu Features
+    - login
+    - customer registeration
+    - store registration
+- Cutomer Commands
+    - store-info
+    - update-profile-info
+    - films-by-category
+    - highest-rated-films
+    - highest-rated-films-category
+    <br>
+    - search-film-actor
+      "(7) search-film-category
+      "(8) search-film-title
+      "(9) search-film-language
+      "(10) search-film-year
+      "\n"
+      "(11) rental-film-count
+      "(12) customer-rental-list
+      "(13) new-reservation
+      "(14) customer-active-rents-close
+      "(15) active-rents-list
+      "(16) payment-info
 
-List the key features or functionalities of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Getting Started
 
