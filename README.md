@@ -14,7 +14,8 @@ Rental System built with MySQL & Python using Sakila Database.
 This project has an emphasis on using SQL Queries to master main and key queries.<br>
 To interact with the user, I used Python. So user can enter his/her commands via Terminal.<br>
 The database used in this project is Sakila Database which is documented at this [link](https://dev.mysql.com/doc/sakila/en/).<br>
-E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh-far/Rental-System/blob/main/E-R%20Diagram.jpg).
+E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh-far/Rental-System/blob/main/E-R%20Diagram.jpg).<br>
+Two types of user is availabe: Customer and Manager. To register as a customer choose 2 in order to register as a customer and choose 3 to register a store and register as a manager.
 
 ## Features
 - Menu Features
@@ -93,4 +94,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+You are good to go. use register customer or store registration to proceed.
 
