@@ -29,18 +29,41 @@ The database used in this project is Sakila Database which is documented at this
     - highest-rated-films-category
     <br>
     - search-film-actor
-      "(7) search-film-category
-      "(8) search-film-title
-      "(9) search-film-language
-      "(10) search-film-year
-      "\n"
-      "(11) rental-film-count
-      "(12) customer-rental-list
-      "(13) new-reservation
-      "(14) customer-active-rents-close
-      "(15) active-rents-list
-      "(16) payment-info
-
+    - search-film-category
+    - search-film-title
+    - search-film-language
+    -  search-film-year
+    <br>
+    -  rental-film-count
+    -  customer-rental-list
+    -  new-reservation
+    -  customer-active-rents-close
+    -  active-rents-list
+    -  payment-info
+- Manager Commands
+    - get-customer-info
+    - get-rental-info
+    - get-active-rental
+    - check-reservations
+    - create-rental
+    - update-store-info
+    <br>
+    - highest-rated-films
+    - highest-rated-films-category
+  <br>
+    - search-film-actor
+    - search-film-category
+    - search-film-title
+    - search-film-language
+    - search-film-year
+  <br>
+    - store-payments
+    - payments-per-customer
+    - payments-per-film
+  <br>
+    - best-seller-category
+    - best-seller-film
+    - best-seller-actor
 
 ## Getting Started
 
