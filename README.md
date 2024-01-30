@@ -21,7 +21,7 @@ E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh
     - login
     - customer registeration
     - store registration<br>
-Below theres a full list of different commands, which can be executed. Every command is executed with at least one query.<br> 
+- Below theres a full list of different commands, which can be executed. Every command is executed with at least one query.<br> 
 - Cutomer Commands
     - store-info
     - update-profile-info
