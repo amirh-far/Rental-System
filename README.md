@@ -95,5 +95,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-You are good to go. use register customer or store registration to proceed.
+You are good to go. Use register customer or store registration to proceed.
+
+## Screenshots
+
+
 
