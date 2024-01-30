@@ -1,4 +1,6 @@
-[rental-system](https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-sys.png)
+<p>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-sys.png"/>
+</p>
 
 Brief description or tagline about your project.
 
