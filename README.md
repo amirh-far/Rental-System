@@ -103,30 +103,35 @@ You are good to go. Use register customer or store registration to proceed.
 <p>
   <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png"/>
 </p>
+
 ### Get Rental Info
 <p>
   <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/get-rental-info.png"/>
 </p>
+
+### Highest Rated Films Category
 <p>
-  <img src=""/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/%20highest-rated-films-category.png"/>
 </p>
+
+### Payment Info
 <p>
-  <img src=""/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/payment-info.png"/>
 </p>
+
+### Rental Film Count
 <p>
-  <img src=""/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-film-count.png"/>
 </p>
+
+### Search Film via Category
 <p>
-  <img src=""/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/search-film-category.png"/>
 </p>
-<p>
-  <img src=""/>
-</p>
-<p>
-  <img src=""/>
-</p>
-<p>
-  <img src=""/>
-</p>
+
+## Contributing
+
+Feel free to contribute to this project. Also if you have any questions, errors etc. let me know.<br>
+You can reach out to me via Gmail, LinkedIn or Telegram. Links are available in my github profile in this [link](https://github.com/amirh-far).
 
 
