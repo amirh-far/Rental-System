@@ -14,7 +14,7 @@ Rental System built with MySQL & Python using Sakila Database.
 This project has an emphasis on using SQL Queries to master main and key queries.<br>
 To interact with the user, I used Python. So user can enter his/her commands via Terminal.<br>
 The database used in this project is Sakila Database which is documented at this [link](https://dev.mysql.com/doc/sakila/en/).<br>
-
+E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh-far/Rental-System/blob/main/E-R%20Diagram.jpg).
 
 ## Features
 - Menu Features
