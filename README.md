@@ -103,8 +103,9 @@ You are good to go. Use register customer or store registration to proceed.
 <p>
   <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/menu.png"/>
 </p>
+### Get Rental Info
 <p>
-  <img src=""/>
+  <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/get-rental-info.png"/>
 </p>
 <p>
   <img src=""/>
