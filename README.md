@@ -1,4 +1,4 @@
-# Rental System
+[rental-system](https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-sys.png)
 
 Brief description or tagline about your project.
 
