@@ -61,8 +61,8 @@ E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh
     - best-seller-actor
 
 ### Installation
-1. Install MySQL on your Machine. [link](https://dev.mysql.com/downloads/installer/)
-2. Clone the repo
+1. install MySQL on your Machine. [link](https://dev.mysql.com/downloads/installer/)
+2. clone the repo
 ```bash
 git clone https://github.com/amirh-far/Rental-System.git
 ```
@@ -70,8 +70,27 @@ git clone https://github.com/amirh-far/Rental-System.git
 ```bash
 create database rental_sys;
 use rental_sys;
-source /path/to/the/sql/file/inside/folder:/sakila-schema.sql
-source /path/to/the/sql/file/inside/folder:/sakila-data.sql
+source /path/to/the/sql/file/in/folder:sakila-db/sakila-schema.sql
+source /path/to/the/sql/file/inside/folder:sakila-db/sakila-data.sql
+source /path/to/the/sql/file/inside/folder:sql-requirements/table_modifications.sql
 ```
-
+If you have any questions and errors in step 3, let me know.<br>
+4. install python 3.11 or any version. [Install Python](https://www.python.org/downloads/release/python-3117/)
+5. create a Python Vritual Environment based on your machine. on Unix:
+```bash
+python -m venv venv
+```
+6. activate the environment. on Unix:
+```bash
+cd your/repo/path
+source venv/bin/activate
+```
+7. run pip install
+```bash
+pip install -r requirements.txt
+```
+8. run main.py
+```bash
+python main.py
+```
 
