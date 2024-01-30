@@ -60,17 +60,18 @@ E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh
     - best-seller-film
     - best-seller-actor
 
-## Getting Started
-
-Instructions on how to get a copy of your project up and running on a local machine.
-
-### Prerequisites
-
-List any software, libraries, or tools that users need to have installed before they can use your project.
-
-
 ### Installation
-
-Step-by-step instructions on how to install your project.
+1. Install MySQL on your Machine. [link](https://dev.mysql.com/downloads/installer/)
+2. Clone the repo
+```bash
+git clone https://github.com/amirh-far/Rental-System.git
+```
+3. login in your SQL via Terminal and execute these commands one by one
+```bash
+create database rental_sys;
+use rental_sys;
+source /path/to/the/sql/file/inside/folder:/sakila-schema.sql
+source /path/to/the/sql/file/inside/folder:/sakila-data.sql
+```
 
 
