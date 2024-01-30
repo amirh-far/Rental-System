@@ -2,11 +2,12 @@
   <img src="https://github.com/amirh-far/Rental-System/blob/main/readme-images/rental-sys.png"/>
 </p>
 
-Rental System built with MySQL & Python using Sakila Database.
+Rental System built with MySQL, Python & Pandasusing Sakila Database.
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ## About
