@@ -78,7 +78,7 @@ source /path/to/the/sql/file/inside/folder:sakila-db/sakila-data.sql
 source /path/to/the/sql/file/inside/folder:sql-requirements/table_modifications.sql
 ```
 If you have any questions and errors in step 3, let me know.<br>
-4. install python 3.11 or any version. [Install Python](https://www.python.org/downloads/release/python-3117/)
+4. install python 3.11 or any version. [Install Python](https://www.python.org/downloads/release/python-3117/)<br>
 5. create a Python Vritual Environment based on your machine. on Unix:
 ```bash
 python -m venv venv
