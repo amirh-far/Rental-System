@@ -17,7 +17,8 @@ To interact with the user, I used Python. So user can enter his/her commands via
 The database used in this project is Sakila Database which is documented at this [link](https://dev.mysql.com/doc/sakila/en/).<br>
 E-R Diagram is also availabe in the Repo in this [link](https://github.com/amirh-far/Rental-System/blob/main/E-R%20Diagram.jpg).<br>
 Two types of user is availabe: Customer and Manager.<br>
-To register as a customer choose 2 in order to register as a customer and choose 3 to register a store and register as a manager.
+To login as a customer choose 2.   
+In order to register as a customer and choose 3 to register a store and register as a manager.
 
 ## Features
 - Menu Features
